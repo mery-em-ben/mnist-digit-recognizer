@@ -40,8 +40,8 @@ mnist-streamlit/
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/VOTRE_PSEUDO/mnist-streamlit.git
-cd mnist-streamlit
+git clone https://github.com/mery-em-ben/mnist-digit-recognizer.git
+cd mnist-digit-recognizer
 ```
 
 ### 2. Créer et activer un environnement virtuel (optionnel mais recommandé)
@@ -73,7 +73,7 @@ L'interface s'ouvrira directement dans votre navigateur à l'adresse `http://loc
 Ce projet est prêt à être déployé en 1 clic gratuitement :
 1. Créez un compte sur [share.streamlit.io](https://share.streamlit.io/) en vous connectant avec votre compte GitHub.
 2. Cliquez sur **"New app"**.
-3. Sélectionnez ce dépôt (`VOTRE_PSEUDO/mnist-streamlit`), branche `main` et fichier `app.py`.
+3. Sélectionnez ce dépôt (`mery-em-ben/mnist-digit-recognizer`), branche `main` et fichier `app.py`.
 4. Cliquez sur **"Deploy"**. Vous obtiendrez un lien public interactif à ajouter directement sur votre CV ou profil LinkedIn !
 
 ---
